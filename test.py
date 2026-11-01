@@ -1,0 +1,2 @@
+getch
+int i
